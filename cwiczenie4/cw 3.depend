@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1508691508 source:d:\codeblocks\programy code block\cw 3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdexcept>
+	<vector>
+	<sstream>
+
+1508692416 source:d:\codeblocks\programy code block\cw 3\probka.cpp
+	"Probka.hpp"
+
+1508692416 d:\codeblocks\programy code block\cw 3\probka.hpp
+
+1508692331 source:d:\codeblocks\programy code block\cw 3\sygnal.cpp
+
+1508694334 source:c:\users\dom\desktop\cw 3\probka.cpp
+	"probka.hpp"
+
+1508694266 c:\users\dom\desktop\cw 3\probka.hpp
+
+1508696755 source:c:\users\dom\desktop\cw 3\main.cpp
+	<iostream>
+	"probka.hpp"
+	"sygnal.hpp"
+
+1508696713 c:\users\dom\desktop\cw 3\sygnal.hpp
+	<vector>
+	"probka.hpp"
+	<string>
+
+1508696742 source:c:\users\dom\desktop\cw 3\sygnal.cpp
+	"sygnal.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1508697632 source:c:\users\neonet\desktop\cw-3_2\cw 3\main.cpp
+	<iostream>
+	"probka.hpp"
+	"sygnal.hpp"
+
+1508694266 c:\users\neonet\desktop\cw-3_2\cw 3\probka.hpp
+
+1508697246 c:\users\neonet\desktop\cw-3_2\cw 3\sygnal.hpp
+	<vector>
+	"probka.hpp"
+	<string>
+
+1508694334 source:c:\users\neonet\desktop\cw-3_2\cw 3\probka.cpp
+	"probka.hpp"
+
+1508696742 source:c:\users\neonet\desktop\cw-3_2\cw 3\sygnal.cpp
+	"sygnal.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1508698169 source:c:\users\neonet\desktop\studia\iii semestr\programowanie\cw 3\main.cpp
+	<iostream>
+	"probka.hpp"
+	"sygnal.hpp"
+
+1508694266 c:\users\neonet\desktop\studia\iii semestr\programowanie\cw 3\probka.hpp
+
+1508697246 c:\users\neonet\desktop\studia\iii semestr\programowanie\cw 3\sygnal.hpp
+	<vector>
+	"probka.hpp"
+	<string>
+
+1508694334 source:c:\users\neonet\desktop\studia\iii semestr\programowanie\cw 3\probka.cpp
+	"probka.hpp"
+
+1508696742 source:c:\users\neonet\desktop\studia\iii semestr\programowanie\cw 3\sygnal.cpp
+	"sygnal.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1510586354 source:d:\bartosz szwed\cw3\cw3\cw3\main.cpp
+	<iostream>
+	"probkaa.hpp"
+	"syngall.hpp"
+	"sygnalloader.hpp"
+	"analizatorsygnalu.hpp"
+	"windows.h"
+
+1508690668 d:\bartosz szwed\cw3\cw3\cw3\probka.hpp
+
+1508768503 d:\bartosz szwed\cw3\cw3\cw3\sygnal.hpp
+	<vector>
+	"probka.hpp"
+	<string>
+
+1509376869 source:d:\bartosz szwed\cw3\cw3\cw3\probka.cpp
+	"probkaa.hpp"
+
+1510585962 source:d:\bartosz szwed\cw3\cw3\cw3\sygnal.cpp
+	"syngall.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1510586479 source:d:\bartosz szwed\cw3\cw3\cw3\analizatorsygnalu.cpp
+	"analizatorsygnalu.hpp"
+	<iostream>
+	"syngall.hpp"
+	"sygnalloader.hpp"
+
+1509983165 d:\bartosz szwed\cw3\cw3\cw3\analizatorsygnalu.hpp
+	"syngall.hpp"
+	<iostream>
+
+1509981720 d:\bartosz szwed\cw3\cw3\cw3\syngall.hpp
+	<vector>
+	"probkaa.hpp"
+	<string>
+
+1509985234 d:\bartosz szwed\cw3\cw3\cw3\probkaa.hpp
+	<iostream>
+
+1509984788 d:\bartosz szwed\cw3\cw3\cw3\sygnalloader.hpp
+	"syngall.hpp"
+	<string>
+
+1510586258 source:d:\bartosz szwed\cw3\cw3\cw3\sygnalloader.cpp
+	"sygnalloader.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1510586480 source:d:\adam_zuk\cwiczenie4 skonczone\cw 4\analizatorsygnalu.cpp
+	"analizatorsygnalu.hpp"
+	<iostream>
+	"syngall.hpp"
+	"sygnalloader.hpp"
+
+1509983166 d:\adam_zuk\cwiczenie4 skonczone\cw 4\analizatorsygnalu.hpp
+	"syngall.hpp"
+	<iostream>
+
+1509981722 d:\adam_zuk\cwiczenie4 skonczone\cw 4\syngall.hpp
+	<vector>
+	"probkaa.hpp"
+	<string>
+
+1509985236 d:\adam_zuk\cwiczenie4 skonczone\cw 4\probkaa.hpp
+	<iostream>
+
+1509984790 d:\adam_zuk\cwiczenie4 skonczone\cw 4\sygnalloader.hpp
+	"syngall.hpp"
+	<string>
+
+1510586356 source:d:\adam_zuk\cwiczenie4 skonczone\cw 4\main.cpp
+	<iostream>
+	"probkaa.hpp"
+	"syngall.hpp"
+	"sygnalloader.hpp"
+	"analizatorsygnalu.hpp"
+	"windows.h"
+
+1509376870 source:d:\adam_zuk\cwiczenie4 skonczone\cw 4\probka.cpp
+	"probkaa.hpp"
+
+1510585964 source:d:\adam_zuk\cwiczenie4 skonczone\cw 4\sygnal.cpp
+	"syngall.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1510586260 source:d:\adam_zuk\cwiczenie4 skonczone\cw 4\sygnalloader.cpp
+	"sygnalloader.hpp"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
